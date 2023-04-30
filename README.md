@@ -4,4 +4,6 @@ Simply run the code within a Python compiler and type in or copy and paste the t
 
 All test cases mentioned within the requirenments are addressed within the .py file.
 
+UPDATE 4/30: All test cases have been moved to a seperate .py file named "Test_Cases.py" to assist in readability within the mains code file.
+
 Thank you.
