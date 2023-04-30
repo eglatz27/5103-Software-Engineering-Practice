@@ -10,7 +10,6 @@ def Frequency(sentence):  # checks the frequency of word per text block
 
 
 def LineAmt(sentence):  # checks the amount of lines
-    LineAmt = 0
     LineAmt = len(sentence.split("\n"))  # Line is considered new when \n is counted
     print('There is', LineAmt, 'line(s)\n')
 
