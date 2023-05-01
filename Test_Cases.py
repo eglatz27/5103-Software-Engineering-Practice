@@ -94,5 +94,5 @@
     
     print('the eighteenth test will test the main function by inputting a sentence and answering with an invalid answer to the word replacement question.')
     sentence = "Hello there"
-    answer = "No"
+    answer = "Nope!!!!"
     
